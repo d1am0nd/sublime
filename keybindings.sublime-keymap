@@ -1,0 +1,5 @@
+[
+    { "keys": ["shift+delete"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["ctrl+t"], "command": "php_test_initiate" }
+]
+
